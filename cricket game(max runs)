@@ -1,0 +1,3 @@
+overs=int(input("enter number of overs : "))
+maxruns=(overs-1)*33+36
+print(f"THE MAXIMUM RUNS SCORED = {maxruns}")

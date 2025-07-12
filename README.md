@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @MohammadAshhar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in New Technologies and different AI tools rather these just job related DSA
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MohammadAshhar/MohammadAshhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me mohammadashhar080904@gmail.com 
